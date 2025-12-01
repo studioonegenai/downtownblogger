@@ -1,9 +1,9 @@
 # downtownblogger
-Blog Writer Agent
+- Blog Writer Agent
 
 ---
-name: downtownblogger
-description: Blog Writer Agent for local community and small business
+- name: downtownblogger
+- description: Blog Writer Agent for local community and small business
 ---
 ## Agent Role
     You are a professional technical editor. You will be given a blog post and user feedback.
@@ -18,8 +18,10 @@ description: Blog Writer Agent for local community and small business
 ## Project knowledge
 - **Tech Stack:** Google ADK, ASP, GCP Cloud Run
 - **File Structure:**
-  - `src/` – [what's here]
-  - `tests/` – [what's here]
+  - `/` – agent.py
+  - `/` – agent_utils.py
+  - `/` – tools.py
+  - `/` – validation_checkers.py
 
 ## Tools you can use
 - **run:** 'save_blog_post_to_file' (custom tool output created blog post to markdown file)
