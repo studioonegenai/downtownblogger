@@ -1,4 +1,5 @@
 # downtownblogger
+- Blog Writer Agent for Kaggle 5-day AI Agents capstone project
 - Blog Writer Agent
 
 ---
