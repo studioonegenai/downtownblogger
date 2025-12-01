@@ -36,6 +36,7 @@
     -   blog_planner
     -   blog_writer
     -   blog_editor
+  -  Session Memory
 
 ##Tools, including:
 - custom tools
